@@ -1,0 +1,26 @@
+torch
+scikit-learn
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+python-docx
+wget
+bitsandbytes==0.43.1
+accelerate==0.31.0
+langserve
+transformers ==4.41.2
+bitsandbytes ==0.43.1
+accelerate ==0.31.0
+langchain==0.2.5
+langchainhub==0.1.20
+langchain_community==0.2.5
+langchain-chroma==0.1.1
+langchain_huggingface ==0.0.3
+fastapi
+pysqlite3-binary
+huggingface_hub
+python-dotenv
+pandas
+nltk
+einops
+aiofiles
